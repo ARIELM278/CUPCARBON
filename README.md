@@ -152,6 +152,9 @@ Así podremos comunicarnos con las autoridades si surge un sismo que se podría 
 
 # 5 VIDEO 
 
+https://www.youtube.com/watch?v=-9BNpPycQX0
+
+
 # 6 CONCLUSIONES 
 
 Personalmente este programa me agrada mucho por que podemos viajar a cualquier parte del mundo y implementar un sistema para ayudar a la gente por medio de nuestro conocimiento La interface es muy elegante y tiene muchas herramientas referentes a la conexión de diversos sitemas operativos que podemos usar hasta en la vida real y quien sabe poder trabajar en las conexiones de la torre ifel por medio de este programa.
