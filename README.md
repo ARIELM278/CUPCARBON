@@ -42,7 +42,7 @@ Indicar un programa que nos ayude a Moldear unos sensores de aviso de Emergencia
 
 **1.2. REQUISITOS PREVIOS**
 
-Investigue Sobre como descargar el Programa además visualizar videos para saber cual es su funcionalidad por medio de este link 
+Recomiendo a los usuarios investigar mucho mas del tema, ver videos de su funcionamiento y familiarizarse con su interfaz. Mediante el siguiente link se encuentra el archivo o página de descarga para una sencilla ejecución muchas gracias.
 
 http://cupcarbon.com/
 
@@ -53,7 +53,8 @@ http://cupcarbon.com/
 
 <div align="center">
   
-** CupCarbon **
+  **CUPCARBON** 
+  
 
 
 [![12.jpg](https://i.postimg.cc/59mWpr7k/12.jpg)](https://postimg.cc/dDDfV5K8)
@@ -69,6 +70,7 @@ http://cupcarbon.com/
 
 
 **2.1.¿Que es CupCarbon y cual es su funcionalidad?**
+  
 CupCarbon permite simular comunicaciones mediante zigbee , WiFi y IoT. Se apoya en OpenStreetMaps lo que permite evaluar el comportamiento de las redes en entornos urbanos. CupCarbon se ejecuta con Java, es abierto y no tienen requerimientos desbordados de procesamiento para el computador. 
 CupCarbon permite simular desde escenarios sencillos, con solo dos nodos, hasta redes de centenares de nodos con complejidades muy grandes.
 Este simulador permite replicar el funcionamiento de diferentes tipos de nodos sensores en el entorno de una smart city o de una ubicación geográfica específica. 
@@ -76,10 +78,12 @@ Este simulador permite replicar el funcionamiento de diferentes tipos de nodos s
 
 
 **3.0¿Qué es una IoT y cómo Funciona?**
+  
 El Internet de las cosas o también llamado (IoT) es el proceso que permite conectar elementos físicos cotidianos al Internet: desde objetos domésticos comunes, como las bombillas de luz, hasta recursos para la atención de la salud, como los dispositivos médicos; incluso los sistemas de las ciudades inteligentes.
 El término IoT hace referencia a los sistemas físicos que reciben y transfieren datos a través de redes inalámbricas con poca intervención humana, lo cual es posible gracias a la integración de los dispositivos informáticos en todo tipo de objetos.
 
 IoT y edge computing
+  
 El edge computing proporciona mayor potencia informática en los extremos de una red de IoT para reducir la latencia de comunicación entre los dispositivos de IoT y las redes de TI centrales a las que se conectan.
 La capacidad de los dispositivos para utilizar esta potencia informática en el análisis rápido e inmediato de los datos es cada vez más valiosa.  El IoT nació gracias al envío y la recepción de datos, pero el futuro radica en la capacidad de enviarlos, recibirlos y analizarlos con las aplicaciones del IoT.
 
@@ -91,6 +95,7 @@ La capacidad de los dispositivos para utilizar esta potencia informática en el 
 [![13.jpg](https://i.postimg.cc/NMgp0d65/13.jpg)](https://postimg.cc/3ycgSCbT)
 
 La interface de este programa sin duda en unos de los mas llamativos por el hecho de que tenemos un mapa donde podemos crear diversas cosas en diversos lugares. Además contamos con muchas herramientas que usaremos a lo largo de este programa cabe recalcar que este programa cuenta con un lenguaje java donde podremos modificar según nuestro gusto y según lo que el programa necesita para inicializar 
+
 1.	El mapa 
 2.	La barra de menú 
 3.	El menú de parámetros 
